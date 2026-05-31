@@ -28,7 +28,8 @@ Visit the link above to explore the application without installing it locally.
 
 |               Event Information                |              Registration Status               |
 | :--------------------------------------------: | :--------------------------------------------: |
-c
+| <img src="screenshots/event1.png" width="280"> | <img src="screenshots/event2.png" width="280"> |
+
 ### Dashboard
 
 |                      Upcoming Events                       |                       Event History                       |
