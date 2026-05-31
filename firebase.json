@@ -1,0 +1,54 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "hive-f9d01",
+          "appId": "1:671651083297:android:fbb6a6f1698c315b285f60",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "hive-f9d01",
+          "appId": "1:671651083297:ios:cf0bf02fd6001b46285f60",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "hive-f9d01",
+          "appId": "1:671651083297:ios:cf0bf02fd6001b46285f60",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "hive-f9d01",
+          "configurations": {
+            "android": "1:671651083297:android:fbb6a6f1698c315b285f60",
+            "ios": "1:671651083297:ios:cf0bf02fd6001b46285f60",
+            "macos": "1:671651083297:ios:cf0bf02fd6001b46285f60",
+            "web": "1:671651083297:web:80fe1e4a27dbd776285f60"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

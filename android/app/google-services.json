@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671651083297",
+    "project_id": "hive-f9d01",
+    "storage_bucket": "hive-f9d01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671651083297:android:fbb6a6f1698c315b285f60",
+        "android_client_info": {
+          "package_name": "com.collegeevents.college_events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiMmpwWIE08Ndm4G7tYDwahmgTaoD6quM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
